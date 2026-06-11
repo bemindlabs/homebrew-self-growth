@@ -1,8 +1,8 @@
 cask "self-growth" do
-  version "2026.4.8"
-  sha256 "d0da01428765d3a7f6431174000e6db83895462f06ebe4fb93dc13457e5cc729"
+  version "2026.6.11"
+  sha256 "3680b7916dce92d59bc41f24ef79ab871779c508e7c09ed9a0f9d32840543452"
 
-  url "https://github.com/bemindlabs/openclaw-self-growth-app/releases/download/v#{version}/Self.Growth_#{version}_aarch64.dmg"
+  url "https://github.com/bemindlabs/self-growth-app/releases/download/v#{version}/Self.Growth_#{version}_aarch64.dmg"
   name "Self Growth"
   desc "AI-powered personal development desktop app"
   homepage "https://buildonclaw.cloud/products/self-growth"
